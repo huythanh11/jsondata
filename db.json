@@ -1,8 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1,"firstname": "AN", "lastname": "Nguyen Van" , "username":"nguyenvanan","password":"123123"},
+    { "id": 2,"firstname": "THAO", "lastname": "Nguyen Thi" , "username":"nguyenthithao","password":"thao123"},
+    { "id": 3,"firstname": "DUNG", "lastname": "Dao Van" , "username":"daovandung","password":"dung123"},
+    { "id": 4,"firstname": "MANH", "lastname": "Nguyen Van" , "username":"nguyenvanmanh","password":"manh111"}
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
